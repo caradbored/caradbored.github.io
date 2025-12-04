@@ -20,10 +20,12 @@ body {
 
 h2.snippet {
   font-size: 24px;
-  color: solid gray;
+}
+
+p.snippet {
+  font-family: Georgia, serif;
 }
 
 .snippet {
-  font-family: Georgia, serif;
-  border: 5px dodgerblue;
+  background-color: DarkGray
 }
