@@ -18,6 +18,11 @@ body {
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#8A8A8A", endColorstr="#454545", GradientType=0);
 }
 
+.snippet {
+  background: DimGray;
+  font-size: 2px;
+}
+
 h2.snippet {
   font-size: 240px;
   color: firebrick:
@@ -27,7 +32,4 @@ p.snippet {
   font-family: Georgia, serif;
 }
 
-.snippet {
-  background: DimGray;
-  font-size: 2px;
-}
+
