@@ -20,7 +20,7 @@ body {
 
 .snippet {
   background: DimGray;
-  font-size: 2px;
+  /*font-size: 2px;*/
 }
 
 h2.snippet {
