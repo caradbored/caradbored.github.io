@@ -23,17 +23,12 @@ body {
   /*font-size: 2px;*/
 }
 
-h2.snippet {
+#sniph2 {
   font-size: 66px;
   color: firebrick:
 }
 
-p.snippet {
+#snipp {
   font-family: Georgia, serif;
 }
-
-h2 {
-  font-size: 66px;
-}
-
 
